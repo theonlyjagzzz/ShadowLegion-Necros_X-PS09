@@ -1,0 +1,16 @@
+api_name,status,last_used_days,traffic,authentication,sensitive_data
+login_api,Active,1,High,OAuth,Yes
+balance_api,Active,2,Medium,OAuth,Yes
+payment_api,Active,0,High,OAuth,Yes
+upi_transfer_api,Active,5,High,OAuth,Yes
+customer_profile_api,Active,20,Medium,OAuth,Yes
+legacy_transfer_api,Deprecated,420,Low,No_Auth,Yes
+old_payment_gateway,Zombie,500,Low,No_Auth,Yes
+test_admin_api,Zombie,650,Very Low,No_Auth,Yes
+debug_api,Zombie,700,Very Low,No_Auth,No
+analytics_api,Active,10,Medium,API_Key,No
+reporting_api,Deprecated,250,Low,Basic_Auth,Yes
+mobile_sync_api,Active,3,High,OAuth,Yes
+notification_api,Active,15,Medium,API_Key,No
+internal_audit_api,Zombie,900,No_Auth,No_Auth,Yes
+sandbox_api,Deprecated,300,Low,No_Auth,No
