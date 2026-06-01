@@ -1,11 +1,11 @@
-Here is the merged README — copy-paste ready:
-
----
-
 ```markdown
 # ⚡ NECROS X — Hackathon Edition
 > **Autonomous Zombie API Detection & Defense SOC Dashboard**
 > AI-powered API security operations platform for detecting, profiling, and neutralising zombie APIs in banking infrastructure.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kp5w4bpbhwfksmjneumuab.streamlit.app/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: Educational](https://img.shields.io/badge/License-Educational-lightgrey.svg)]()
 
 ---
 
@@ -27,8 +27,27 @@ NECROS X autonomously scans, scores, visualises, and defends against these threa
 
 ## 🔗 Links
 
-- 🌐 **Live Demo:** https://kp5w4bpbhwfksmjneumuab.streamlit.app/
-- 🎥 **Demo Video:** https://youtu.be/vfpytiUcflE?si=TKeA3Iokj9kCqU16
+- 🌐 **Live Demo:** [https://kp5w4bpbhwfksmjneumuab.streamlit.app/](https://kp5w4bpbhwfksmjneumuab.streamlit.app/)
+- 🎥 **Demo Video:** [https://youtu.be/vfpytiUcflE?si=TKeA3Iokj9kCqU16](https://youtu.be/vfpytiUcflE?si=TKeA3Iokj9kCqU16)
+
+---
+
+## 📚 Table of Contents
+
+- [What is NECROS X?](#-what-is-necros-x)
+- [Links](#-links)
+- [New in Hackathon Edition](#-new-in-hackathon-edition)
+- [Navigation Pages](#️-navigation-pages)
+- [How to Run Locally](#-how-to-run-locally)
+- [Project Structure](#-project-structure)
+- [Tech Stack](#️-tech-stack)
+- [Dataset](#-dataset)
+- [Core Security Features](#-core-security-features)
+- [Known Limitations](#-known-limitations)
+- [Future Enhancements](#-future-enhancements)
+- [Team](#-team)
+- [Hackathon Details](#-hackathon-details)
+- [License](#-license)
 
 ---
 
@@ -119,6 +138,10 @@ Every API is now clickable and opens a full intelligence panel with:
 
 ## ⚙️ How to Run Locally
 
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
 ### 1. Clone Repository
 
 ```bash
@@ -134,12 +157,12 @@ python -m venv venv
 
 ### 3. Activate Environment
 
-Windows:
+**Windows:**
 ```bash
 venv\Scripts\activate
 ```
 
-Linux / macOS:
+**Linux / macOS:**
 ```bash
 source venv/bin/activate
 ```
@@ -162,9 +185,7 @@ python -m streamlit run app.py
 
 ### 6. Open Browser
 
-```
-http://localhost:8501
-```
+Navigate to `http://localhost:8501`
 
 ---
 
