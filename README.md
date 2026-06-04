@@ -14,7 +14,7 @@ Unlike traditional API security tools that focus only on known APIs, NECROS X id
 
 🔗 Live Demo: https://qytkuga5wzdv9e9sftjql5.streamlit.app/
 
-🎥 Demo Video: https://youtu.be/vfpytiUcflE?si=TKeA3Iokj9kCqU16
+🎥 Demo Video: https://youtu.be/5ndP6ecMyOk?si=VEQiRhGnxIFIRZzF
 
 ---
 
